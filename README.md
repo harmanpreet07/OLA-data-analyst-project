@@ -1,3 +1,6 @@
+![Vehicle Type](https://github.com/harmanpreet07/OLA-data-analyst-project/blob/main/Overall.png)
+
+
 # OLA-Data-Analyst-Project
 
 
