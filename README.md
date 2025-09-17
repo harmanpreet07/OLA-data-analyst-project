@@ -36,4 +36,7 @@ Enhanced ability to make strategic business decisions
 
 Screenshot:
 ![Vehicle Type](https://github.com/harmanpreet07/OLA-data-analyst-project/blob/main/Vehicle%20type.png)
+![Cancellation](https://github.com/harmanpreet07/OLA-data-analyst-project/blob/main/cancellation.png)
+![Cancellation](https://github.com/harmanpreet07/OLA-data-analyst-project/blob/main/revenue.png)
+
 
